@@ -20,12 +20,12 @@ public class JacobAndJayden {
     public static void main(String[] args) 
     { 
     	
-    	int [] A= {100,63,1,6,2,13};
-    	//int [] A= {6,42,11,7,1,42};
+    	//int [] A= {100,63,1,6,2,13};
+    	int [] A= {6,42,11,7,1,42};
     	//int [] A= {7, 42, 5, 6, 42, 8, 7, 5, 3, 6, 7};
     	
-    	int x=100,y=63;
-    	//int x=7,y=42;
+    	//int x=100,y=63;
+    	int x=7,y=42;
     	//int x=7,y=42;
     	int r = Solution(x,y,A);
         System.out.println(r);
