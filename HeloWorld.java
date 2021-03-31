@@ -6,7 +6,7 @@ public class HeloWorld {
 // 		System.out.println("hello world....!");
 // 		}
 		int i=5;
-		while(i){
+		while(i>0){
 		System.out.println("hello world....!");
 			i--;
 		}
