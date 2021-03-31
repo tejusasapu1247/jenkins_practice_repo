@@ -26,7 +26,7 @@ public class JacobAndJayden {
     	
     	int x=100,y=63;
     	//int x=7,y=42;
-    	int x=7,y=42;
+    	//int x=7,y=42;
     	int r = Solution(x,y,A);
         System.out.println(r);
     
