@@ -1,5 +1,5 @@
 
-public class PrintingStrnig {
+public class PrintingString {
 
 	  // Method to print the string 
 	    static void printString(String str,  int count) 
